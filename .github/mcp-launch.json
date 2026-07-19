@@ -1,0 +1,11 @@
+{
+  "setup": [],
+  "command": "uv",
+  "args": [
+    "run",
+    "python",
+    "-m",
+    "paper_search_mcp.server"
+  ],
+  "env": {}
+}
